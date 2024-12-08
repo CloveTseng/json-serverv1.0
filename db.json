@@ -1,0 +1,50 @@
+{
+    "users": [
+      { 
+        "id": 1, 
+        "name": "街口阿勇" 
+      },
+      {
+        "id": 2, 
+        "name": "努力生存的勇者" 
+      },
+      {
+        "id": 3, 
+        "name": "巷口阿美" 
+      }
+    ],
+    "posts": [
+      { 
+        "id": 1, 
+        "images": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?q=80&w=2728&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "body": "超級喜歡這個平台!在這裡我不僅能找到新鮮的食物,還能遇到很多友好的分享者。每次與其他 Buddy 的互動都充滿了正能量,這讓我覺得自己真的成為了這個社群的一部分，謝謝你們！ ", 
+        "userId": 1 
+      },
+      { 
+        "id": 2, 
+        "images": "https://images.unsplash.com/photo-1597075561373-cf8898ec7290?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "body": "謝謝 Flavor Trail 的大家，今天收到一位超棒的分享者提供的美味午餐！真的很感謝你們的慷慨,讓我在窘困時期不再擔心吃飯問題。這種分享讓我感到社群的溫暖，謝謝你們！ ", 
+        "userId": 2 
+      },
+      { 
+        "id": 3, 
+        "images": "https://images.unsplash.com/photo-1624726175512-19b9baf9fbd1?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "body": "成為 Flavor buddy 真的是一件非常有趣的事!我每次分享食物的時候都會特別注意衛生,因為知道它們可能會送到需要的人手中。這不僅是對食物的尊重,也是對這個社群的愛。", 
+        "userId": 3 
+      }
+    ],
+    "comments": [
+      { 
+        "id": 1, 
+        "body": "這是一個非常有趣的平台，讓我可以找到新鮮的食物和分享者。", 
+        "postId": 1,
+        "userId": 1
+      },
+      { 
+        "id": 2, 
+        "body": "這是一個非常有趣的平台，讓我可以找到新鮮的食物和分享者。", 
+        "postId": 1,
+        "userId": 2
+      }
+    ]
+  }
